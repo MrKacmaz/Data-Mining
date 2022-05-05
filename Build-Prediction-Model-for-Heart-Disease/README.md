@@ -4,15 +4,18 @@ _Alperen KAÇMAZ_
 
 _Computer Engineering Department_
 _Akdeniz University_
+
 **Antalya,Turkey**
+
 __alperen703.akm@gmail.com__
+
 **20170808033@ogr.akdeniz.edu.tr**
 
-#### **Abstract — This document has been prepared for the prediction of heart attacks. Models were created and compared on the datasets used.**
+#### **Abstract — This document has been prepared for the prediction of heart attacks. Models were created and compared on the [datasets](https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset?resource=download) used.**
 
 ## I. INTRODUCTION
 
-This document is a template of the codes I have written. An electronic copy can be downloaded from the public repository I created on my github account or it can be viewed on [jupyter notebook viewer](https://nbviewer.org/github/MrKacmaz/Data-Mining/blob/master/main.ipynb) or [watch a video](https://youtube.com) that expressions of it.
+This document is a template of the codes I have written. An electronic copy can be downloaded from the public repository I created on my github account or it can be viewed on [jupyter notebook viewer](https://nbviewer.org/github/MrKacmaz/Data-Mining/blob/master/Build-Prediction-Model-for-Heart-Disease/main.ipynb) or [watch a video](https://youtu.be/21nJAJ_JTdU) that expressions of it.
 
 ## II. GETTING STARTED
 
